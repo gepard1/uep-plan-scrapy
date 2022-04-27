@@ -4,7 +4,7 @@ This is a scrapy project
 
 To deploy:
 
-Create a conda environment and run  `pip install -r requirments.txt
+Create a conda environment and run  `pip install -r requirments.txt`
 
 Also you might need: 
 ```
